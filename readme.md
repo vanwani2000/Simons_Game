@@ -9,4 +9,4 @@
 4. Jquery
 5. DOM
 
-📍 Acess the Site [here](https://vanwani2000.github.io/Simons_Game/)
+### 📍 Acess the Site [here](https://vanwani2000.github.io/Simons_Game/)
